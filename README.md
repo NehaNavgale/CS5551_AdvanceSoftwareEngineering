@@ -1,7 +1,8 @@
+Welcome to the CS5551_AdvanceSoftwareEngineering wiki!
 **Lab 1 Assignment** 
 
 Install below given softwares and capture the screenshot
-1. GitHub desktop and Gitshell
+1. GitHub desktop and GitBash
 2. Zen Hub Plugin
 3. Creatly account
 4. Web storm 
@@ -19,6 +20,8 @@ allows multiple people to work on single code by creating branches. Developers  
 
 Git desktop allows developers to clone the repository to local machine and can work on it.  
 ![GitHubDesktop](https://github.com/NehaNavgale/CS5551_AdvanceSoftwareEngineering/blob/master/Documentation/GitHub_Desktop.png)
+
+[GitHub](https://github.com/NehaNavgale/CS5551_AdvanceSoftwareEngineering/blob/master/Documentation/GitHub_Desktop.png)
 
 **GitBash**
 
